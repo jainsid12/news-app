@@ -1,0 +1,10 @@
+#header {
+    color: rgb(236, 235, 236);
+    text-decoration: underline;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

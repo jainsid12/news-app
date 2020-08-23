@@ -1,0 +1,26 @@
+#cardIndividual {
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background: rgba(37, 37, 37);
+    max-width: 330px;
+    width: 95%;
+}
+
+#image {
+    border-radius: 10px 10px 0 0;
+    max-height: 150px;
+}
+
+#cardText {
+    color: rgb(218, 221, 217);
+    
+}
+
+#title {
+    font-size: medium;
+}
+
+#description {
+    font-size: small;
+}
