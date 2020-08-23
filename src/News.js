@@ -41,7 +41,7 @@ class News extends React.Component {
 	render(){
 		let {isLoaded ,news} = this.state;
 		news = [...new Set(news['articles'])];
-		console.log(news);
+		// console.log(news);
 		let key = 0;
 	
 		// parse(news[1]['content']).replace(/\[.*\]/, "")
